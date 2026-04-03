@@ -1,5 +1,4 @@
-  cat <<EOF > README.md
-# 🚀 HackerRank: 30 Days of Code
+ # 🚀 HackerRank: 30 Days of Code
 
 This repository contains my solutions for the **30 Days of Code** challenge on HackerRank. 
 
@@ -9,7 +8,7 @@ Maintained by **Vaibhav Jaiswal** | NIT Raipur
 
 | Day | Challenge | Solution | Topic |
 |:---:|:---|:---:|:---|
-| 0 | [Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) | [View](./Day00/hello_world.cpp) | Stdout/Stdin |
+| 0 | [Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) | [View](./Day00/helloWorld.cpp) | Stdout/Stdin |
  
 
 ## 🛠️ Tech Stack
@@ -17,5 +16,10 @@ Maintained by **Vaibhav Jaiswal** | NIT Raipur
 * **Platform:** HackerRank
 * **Concepts:** Data Structures, Algorithms, OOPs
 
- 
- 
+## 📂 Folder Structure
+```text
+/HackerRank-30-Days-of-Code
+    /Day00
+        hello_world.cpp
+    /Day01
+        data_types.cpp
