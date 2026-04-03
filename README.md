@@ -17,12 +17,5 @@ Maintained by **Vaibhav Jaiswal** | NIT Raipur
 * **Platform:** HackerRank
 * **Concepts:** Data Structures, Algorithms, OOPs
 
-## 📂 Folder Structure
-\`\`\`text
-/HackerRank-30-Days-of-Code
-    /Day00
-        hello_world.cpp
-    /Day01
-        data_types.cpp
-\`\`\`
-EOF
+ 
+ 
