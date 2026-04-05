@@ -10,7 +10,7 @@ Maintained by **Vaibhav Jaiswal** | NIT Raipur
 |:---:|:---|:---:|:---|
 | 0 | [Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) | [View](./Day00/helloWorld.cpp) | Stdout/Stdin |
 | 1 | [Data Types.](https://www.hackerrank.com/challenges/30-data-types/problem) | [View](./Day01/dataTypes.cpp) | int/double/string, getline, cin.ignore, iomanip |
-
+| 2 | [Operators.](https://www.hackerrank.com/challenges/30-operators/problem) | [View](./Day02/operators.cpp) | string, operators, round function |
  
 
 ## 🛠️ Tech Stack
