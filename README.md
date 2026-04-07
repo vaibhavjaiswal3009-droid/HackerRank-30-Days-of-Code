@@ -11,8 +11,8 @@ Maintained by **Vaibhav Jaiswal** | NIT Raipur
 | 0 | [Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) | [View](./Day00/helloWorld.cpp) | Stdout/Stdin |
 | 1 | [Data Types.](https://www.hackerrank.com/challenges/30-data-types/problem) | [View](./Day01/dataTypes.cpp) | int/double/string, getline, cin.ignore, iomanip |
 | 2 | [Operators.](https://www.hackerrank.com/challenges/30-operators/problem) | [View](./Day02/operators.cpp) | string, operators, round function |
-| 3 | [Conditional Statements.](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [View](./Day02/operators.cpp) | bitwise and, conditional statement |
-
+| 3 | [Conditional Statements.](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [View](./Day02/control_stat.cpp) | bitwise and, conditional statement |
+| 4 | [Age Identifier](https://www.hackerrank.com/challenges/30-conditional-class-vs-instance/problem) | [View](./Day02/classes.cpp) | classes, instances, conditional statement |
 ## 🛠️ Tech Stack
 * **Language:** C++
 * **Platform:** HackerRank
@@ -25,3 +25,9 @@ Maintained by **Vaibhav Jaiswal** | NIT Raipur
         hello_world.cpp
     /Day01
         data_types.cpp
+    /Day02
+        operators.cpp
+    /Day03
+        control_stat.cpp
+    /Day04
+        classes.cpp
