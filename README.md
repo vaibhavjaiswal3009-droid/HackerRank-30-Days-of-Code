@@ -12,7 +12,7 @@ Maintained by **Vaibhav Jaiswal** | NIT Raipur
 | 1 | [Data Types.](https://www.hackerrank.com/challenges/30-data-types/problem) | [View](./Day01/dataTypes.cpp) | int/double/string, getline, cin.ignore, iomanip |
 | 2 | [Operators.](https://www.hackerrank.com/challenges/30-operators/problem) | [View](./Day02/operators.cpp) | string, operators, round function |
 | 3 | [Conditional Statements.](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [View](./Day03/control_stat.cpp) | bitwise and, conditional statement |
-| 4 | [Age Identifier](https://www.hackerrank.com/challenges/30-conditional-class-vs-instance/problem) | [View](./Day04/classes.cpp) | classes, instances, conditional statement |
+| 4 | [Age Identifier](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [View](./Day04/classes.cpp) | classes, instances, conditional statement |
 | 5 | [Print Multiplication table](https://www.hackerrank.com/challenges/30-loops/problem) | [View](./Day05/multiplication_table.cpp) | loops |
 ## 🛠️ Tech Stack
 * **Language:** C++
